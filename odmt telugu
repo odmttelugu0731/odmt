@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ODMT Digital Marketing</title>
+</head>
+<body>
+    <h1>Welcome to ODMT Digital Marketing</h1>
+    <p>This repository contains various tools and resources to help with digital marketing, including SEO, social media, content Mangement system, google ads, and more.</p>
+    <h2>Key Features</h2>
+    <ul>
+        <li>SEO Optimization Tools</li>
+        <li>Social Media Campaign Management</li>
+        <li>Email Marketing Automation</li>
+        <li>web designing</li>
+        <li>Content Mangement system </li>
+        <li>google ads </li>
+    </ul>
+    <footer>
+        <p>For more information, visit our repository at <a href="https://github.com/yourusername/ODMT-Digital-Marketing">ODMT Digital Marketing</a>.</p>
+    </footer>
+</body>
+</html>
